@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/*
+Theme Name: Twenty Nineteen - Child Theme
+Theme URI: https://wordpress.org/themes/twentynineteen/
+Author: Alessandro Coraglia - J390101
+Author URI: https://wordpress.org/
+Template: twentynineteen
+Version: 1.0
+*/
+
+.site-title {
+  font-size: 2.75em;
+  line-height: 1.25;
+}
+
+/* Using an address to include a background image */
+.site {
+  background-image: url("http://localhost:1080/WP_Child_Theme/wp-content/themes/twentynineteen-child-theme/assets/images/background.jpg") !important;
+}
