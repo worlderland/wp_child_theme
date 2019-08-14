@@ -13,7 +13,7 @@
 
 		<div class="custom-header-media">
 			<?php the_custom_header_markup(); ?>
-			<img src="<?php echo get_template_directory_uri(); ?>/../mychildtheme/assets/images/header.jpg" alt="">
+			<img src="<?php echo get_template_directory_uri(); ?>/../07-mychildtheme/assets/images/header.jpg" alt="">
 		</div>
 		
 	
